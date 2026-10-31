@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Knowledge Base AI
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** application built with Python, Streamlit, LangChain, OpenAI, and Chroma. It allows users to upload company documents and ask questions based on their content.
@@ -205,3 +206,6 @@ Add a license file if you intend to distribute this project publicly. Otherwise,
 ---
 
 **Built with Python, Streamlit, LangChain, OpenAI, and Chroma.**
+=======
+# Enterprise-knowledge-base-ai
+>>>>>>> 0efb4fb4407df267a7201b4ef8723ac93d676960
